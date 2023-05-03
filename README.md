@@ -3,7 +3,6 @@ This repository contains the source code that is used to provide a thorough perf
 
 # Setup
 This project requires setting a vitual environment to run the performance analysis evaluations. Follow the below steps to setup the environment and run the source code:
-<br>
 1. <b> Setting up a Linux environment using VirtualBox:</b> First step would be to setup a linux environment. Please follow the links for <a href=https://www.imore.com/how-use-linux-your-mac-using-virtual-machine>Mac Os</a> and <a href=https://www.c-sharpcorner.com/article/how-to-install-ubuntu-on-windows-10-using-virtualbox/>Windows</a>.
 <br>
 2. <b> Setting up following configuration for your virtual box:</b> Second step would be to set the following key configuration when setting up virtual box:
