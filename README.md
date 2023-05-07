@@ -21,6 +21,3 @@ This project requires setting a vitual environment to run the performance analys
 <br>
 7. Run the respective gbn or sr files by changing to respective directory and type python gbn_reed.py or python sr_reed.py
 
-# Note
-All the files in this repository are set to the base value of evaluation metrics. To obtain the results we carried out the tests by changing the values at runtime.
-
